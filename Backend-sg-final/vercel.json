@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "target/*.jar",
+      "use": "@vercel/static-build"
+    }
+  ],
+  "buildCommand": "mvn clean package -DskipTests",
+  "outputDirectory": "target",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/target/yourapp.jar"
+    }
+  ]
+}

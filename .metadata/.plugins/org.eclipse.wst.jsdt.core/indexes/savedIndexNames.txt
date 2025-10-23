@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3306695583.index
+2530355618.index
+3113736459.index
+3211352052.index
+2552210703.index
+334276377.index

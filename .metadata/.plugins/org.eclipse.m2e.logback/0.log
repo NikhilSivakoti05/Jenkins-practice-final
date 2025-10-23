@@ -1,0 +1,105 @@
+2025-10-23 19:57:25,887 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-10-23 19:58:01,669 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 19:58:04,170 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/main/java
+2025-10-23 19:58:04,176 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 19:58:04,177 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 19:58:04,191 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/test/java
+2025-10-23 19:58:04,193 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/test/resources
+2025-10-23 19:58:06,121 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2025-10-23 19:58:06,199 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-23 19:58:06,881 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 19:58:07,546 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/main/java
+2025-10-23 19:58:07,547 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 19:58:07,548 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 19:58:07,548 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/test/java
+2025-10-23 19:58:07,550 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/test/resources
+2025-10-23 19:58:08,827 [Worker-1: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Backend-sg-final
+2025-10-23 19:58:08,873 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-10-23 19:58:09,818 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 19:58:09,842 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 19:58:09,849 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 19:58:09,850 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Backend-sg-final
+2025-10-23 19:58:09,851 [Worker-31: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Backend-sg-final
+2025-10-23 20:03:01,472 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-23 20:03:01,766 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 20:03:02,099 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/main/java
+2025-10-23 20:03:02,099 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 20:03:02,099 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 20:03:02,099 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/test/java
+2025-10-23 20:03:02,100 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/test/resources
+2025-10-23 20:03:02,664 [Worker-12: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Backend-sg-final
+2025-10-23 20:03:02,698 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-10-23 20:03:02,978 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:03:02,993 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:03:02,996 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:03:02,996 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Backend-sg-final
+2025-10-23 20:03:02,996 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Backend-sg-final
+2025-10-23 20:03:16,331 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-23 20:03:16,602 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 20:03:16,956 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/main/java
+2025-10-23 20:03:16,956 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 20:03:16,957 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 20:03:16,957 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/test/java
+2025-10-23 20:03:16,957 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/test/resources
+2025-10-23 20:03:17,401 [Worker-12: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Backend-sg-final
+2025-10-23 20:03:17,423 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-10-23 20:03:17,663 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:03:17,675 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:03:17,678 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:03:17,678 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Backend-sg-final
+2025-10-23 20:03:17,678 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Backend-sg-final
+2025-10-23 20:06:22,606 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:06:22,621 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:06:22,628 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:06:35,212 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:06:35,216 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:06:35,219 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:06:46,977 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 20:06:47,388 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:06:47,388 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:06:47,390 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:06:47,391 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Backend-sg-final
+2025-10-23 20:06:47,391 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Backend-sg-final
+2025-10-23 20:06:48,205 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-23 20:06:48,656 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 20:06:49,520 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/main/java
+2025-10-23 20:06:49,521 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 20:06:49,521 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/main/resources
+2025-10-23 20:06:49,521 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Backend-sg-final/src/test/java
+2025-10-23 20:06:49,522 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Backend-sg-final/src/test/resources
+2025-10-23 20:06:50,451 [Worker-33: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Backend-sg-final
+2025-10-23 20:06:50,488 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-10-23 20:06:50,766 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:06:50,776 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:06:50,780 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:06:50,781 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Backend-sg-final
+2025-10-23 20:06:50,781 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Backend-sg-final
+2025-10-23 20:07:12,310 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:07:12,313 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:07:12,315 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:07:32,113 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:07:32,119 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:07:32,121 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:08:12,057 [Worker-37: Launching Backend-sg-final - BackendSgApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:08:12,075 [Worker-37: Launching Backend-sg-final - BackendSgApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:08:12,080 [Worker-37: Launching Backend-sg-final - BackendSgApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:09:12,626 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-23 20:09:53,118 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:09:53,133 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:09:53,139 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:12:26,430 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:12:26,434 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:12:26,437 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:13:12,108 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:13:12,110 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:13:12,112 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:13:18,020 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:13:18,024 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:13:18,026 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:20:34,100 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-10-23 20:20:37,715 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sgcore.backend:Backend-sg:0.0.1-SNAPSHOT @ D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\pom.xml.
+2025-10-23 20:20:38,798 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-10-23 20:20:38,812 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-10-23 20:20:38,817 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\LABEXAM-PRACTICE\Jenkins-fullstack-final-p\Backend-sg-final\src\test\resources
+2025-10-23 20:20:38,820 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Backend-sg-final
+2025-10-23 20:20:38,820 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Backend-sg-final
